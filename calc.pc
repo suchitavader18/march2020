@@ -10,3 +10,12 @@ elif 10<age<=60:
 else:
 	print("Ticket Price:200")
 
+
+i=0
+while i<=10:
+	print("Hello World")
+	i+=1
+
+while True:
+	print("Hello World")
+
